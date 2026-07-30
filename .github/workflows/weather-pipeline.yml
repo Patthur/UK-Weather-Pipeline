@@ -1,0 +1,51 @@
+name: Weather Data Pipeline
+
+# Runs the weather pipeline automatically on a schedule, plus on manual
+# trigger and on pushes to main (so the first run happens immediately).
+on:
+  schedule:
+    # Runs at 07:00 and 19:00 UTC every day (twice daily).
+    # Cron format: minute hour day month day-of-week
+    - cron: "0 7,19 * * *"
+  workflow_dispatch:        # allows manual "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+
+# Allow the workflow to commit the updated data back to the repo
+permissions:
+  contents: write
+
+jobs:
+  collect-and-analyse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch latest weather data
+        run: python scripts/fetch_weather.py
+
+      - name: Analyse and generate outputs
+        run: python scripts/analyse_weather.py
+
+      - name: Commit updated data and chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ assets/
+          # Only commit if something actually changed
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated weather update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
