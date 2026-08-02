@@ -1,9 +1,9 @@
 city,readings,avg_temp_c,min_temp_c,max_temp_c,avg_wind_kmh
-London,6,23.4,19.5,27.7,9.0
-Cardiff,6,19.3,18.1,21.7,12.5
-Birmingham,6,18.9,17.4,21.7,11.3
-Leeds,6,17.7,16.5,21.3,14.8
-Manchester,6,17.2,14.6,20.4,11.7
-Belfast,6,16.1,14.4,18.2,11.2
-Edinburgh,6,14.6,13.5,16.5,17.1
-Glasgow,6,14.3,12.1,16.4,13.7
+London,7,23.1,19.5,27.7,8.9
+Cardiff,7,19.2,18.1,21.7,12.3
+Birmingham,7,18.9,17.4,21.7,10.9
+Leeds,7,17.6,16.5,21.3,12.8
+Manchester,7,17.2,14.6,20.4,10.2
+Belfast,7,16.0,14.4,18.2,9.9
+Edinburgh,7,14.7,13.5,16.5,16.2
+Glasgow,7,14.4,12.1,16.4,12.8
