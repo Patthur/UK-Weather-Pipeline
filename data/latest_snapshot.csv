@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-London,2026-08-05 09:30:16,21.6,20.5,60,15.1,0.0,3,Overcast
-Birmingham,2026-08-05 09:30:16,18.9,16.0,53,18.0,0.0,2,Partly cloudy
-Cardiff,2026-08-05 09:30:18,18.1,15.1,59,20.2,0.0,2,Partly cloudy
-Leeds,2026-08-05 09:30:20,17.2,14.7,67,19.1,0.0,3,Overcast
-Edinburgh,2026-08-05 09:30:19,16.9,14.6,67,18.0,0.0,3,Overcast
-Manchester,2026-08-05 09:30:17,16.8,13.7,67,22.3,0.0,3,Overcast
-Glasgow,2026-08-05 09:30:17,15.7,13.4,82,21.6,0.0,3,Overcast
-Belfast,2026-08-05 09:30:19,14.9,12.2,84,23.0,0.0,3,Overcast
+London,2026-08-05 20:21:12,21.0,17.7,43,18.7,0.0,0,Clear sky
+Cardiff,2026-08-05 20:21:14,17.7,15.4,57,14.0,0.0,0,Clear sky
+Birmingham,2026-08-05 20:21:13,17.6,14.1,52,19.8,0.0,2,Partly cloudy
+Manchester,2026-08-05 20:21:13,16.0,13.2,70,20.2,0.1,51,Light drizzle
+Leeds,2026-08-05 20:21:16,15.7,13.0,75,20.9,0.2,53,Moderate drizzle
+Edinburgh,2026-08-05 20:21:15,13.9,9.7,77,28.8,0.0,3,Overcast
+Belfast,2026-08-05 20:21:15,13.5,11.0,76,15.8,0.0,3,Overcast
+Glasgow,2026-08-05 20:21:14,13.3,10.0,85,24.5,0.1,51,Light drizzle
