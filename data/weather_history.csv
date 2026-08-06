@@ -111,3 +111,11 @@ timestamp_utc,city,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_
 2026-08-05 20:21:15,Belfast,13.5,11.0,76,15.8,0.0,3,Overcast
 2026-08-05 20:21:15,Edinburgh,13.9,9.7,77,28.8,0.0,3,Overcast
 2026-08-05 20:21:16,Leeds,15.7,13.0,75,20.9,0.2,53,Moderate drizzle
+2026-08-06 09:34:47,London,18.2,15.6,47,11.9,0.0,2,Partly cloudy
+2026-08-06 09:34:47,Birmingham,16.1,12.7,51,16.2,0.0,3,Overcast
+2026-08-06 09:34:48,Manchester,14.8,12.4,67,14.0,0.0,3,Overcast
+2026-08-06 09:34:48,Glasgow,14.6,12.2,65,13.3,0.0,3,Overcast
+2026-08-06 09:34:48,Cardiff,17.2,14.6,53,13.3,0.0,2,Partly cloudy
+2026-08-06 09:34:49,Belfast,14.5,12.6,71,11.2,0.0,3,Overcast
+2026-08-06 09:34:49,Edinburgh,13.4,11.6,76,11.2,0.0,3,Overcast
+2026-08-06 09:34:50,Leeds,14.6,11.8,71,17.6,0.0,3,Overcast
