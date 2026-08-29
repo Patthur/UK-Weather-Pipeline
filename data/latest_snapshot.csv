@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-Glasgow,2026-08-28 19:08:46,19.7,18.7,67,14.8,0.0,0,Clear sky
-Edinburgh,2026-08-28 19:08:48,19.2,19.4,71,6.8,0.0,3,Overcast
-Belfast,2026-08-28 19:08:47,18.7,18.8,71,6.8,0.0,2,Partly cloudy
-Cardiff,2026-08-28 19:08:46,18.4,17.3,81,19.4,0.0,2,Partly cloudy
-Leeds,2026-08-28 19:08:48,18.4,17.1,75,17.3,0.0,3,Overcast
-London,2026-08-28 19:08:44,18.2,17.8,88,17.6,0.4,61,Slight rain
-Manchester,2026-08-28 19:08:45,17.8,17.8,83,10.8,0.0,3,Overcast
-Birmingham,2026-08-28 19:08:44,17.6,17.8,90,13.3,0.4,61,Slight rain
+Glasgow,2026-08-29 12:53:02,19.2,19.0,57,2.5,0.0,3,Overcast
+Leeds,2026-08-29 12:53:04,18.9,20.0,81,5.8,0.0,3,Overcast
+London,2026-08-29 12:53:00,18.9,19.5,90,14.0,0.0,3,Overcast
+Edinburgh,2026-08-29 12:53:04,18.7,17.2,59,11.2,0.0,3,Overcast
+Cardiff,2026-08-29 12:53:02,18.1,19.9,93,4.7,0.1,51,Light drizzle
+Manchester,2026-08-29 12:53:01,17.0,18.2,90,4.3,0.2,53,Moderate drizzle
+Birmingham,2026-08-29 12:53:01,15.5,15.8,95,9.0,0.2,53,Moderate drizzle
+Belfast,2026-08-29 12:53:03,15.2,15.3,95,8.6,0.3,55,Dense drizzle
