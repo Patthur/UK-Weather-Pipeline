@@ -540,3 +540,11 @@ timestamp_utc,city,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_
 2026-09-02 11:51:29,Glasgow,14.2,13.6,95,11.5,0.3,55,Dense drizzle
 2026-09-02 11:51:29,Cardiff,18.7,18.2,85,18.0,0.0,3,Overcast
 2026-09-02 11:51:29,Belfast,15.6,17.2,96,0.7,0.4,61,Slight rain
+2026-09-02 21:26:11,London,19.1,19.3,86,15.5,0.0,3,Overcast
+2026-09-02 21:26:11,Birmingham,18.4,17.7,83,18.0,0.0,2,Partly cloudy
+2026-09-02 21:26:12,Manchester,18.3,18.5,86,12.6,0.0,3,Overcast
+2026-09-02 21:26:13,Glasgow,15.0,15.8,97,5.4,0.0,3,Overcast
+2026-09-02 21:26:13,Cardiff,18.1,18.4,94,15.1,0.1,51,Light drizzle
+2026-09-02 21:26:14,Belfast,18.8,18.8,85,14.4,0.0,3,Overcast
+2026-09-02 21:26:14,Edinburgh,15.3,15.9,96,6.8,0.3,55,Dense drizzle
+2026-09-02 21:26:15,Leeds,18.3,18.6,90,13.7,0.0,3,Overcast
