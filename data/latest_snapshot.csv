@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-London,2026-09-12 21:06:13,20.1,19.3,74,17.6,0.0,3,Overcast
-Cardiff,2026-09-12 21:06:15,18.1,18.0,96,19.1,0.0,3,Overcast
-Leeds,2026-09-12 21:06:17,17.8,17.5,82,13.0,0.0,3,Overcast
-Birmingham,2026-09-12 21:06:13,17.8,18.4,95,13.0,0.6,61,Slight rain
-Manchester,2026-09-12 21:06:14,17.8,19.7,96,4.3,0.0,3,Overcast
-Belfast,2026-09-12 21:06:16,15.3,15.4,81,3.6,0.0,3,Overcast
-Edinburgh,2026-09-12 21:06:17,14.1,12.2,77,14.0,0.0,0,Clear sky
-Glasgow,2026-09-12 21:06:15,14.0,12.7,78,10.1,0.0,0,Clear sky
+Birmingham,2026-09-13 12:26:22,20.2,21.7,72,1.8,0.0,3,Overcast
+London,2026-09-13 12:26:22,20.2,21.9,95,13.3,1.2,63,Moderate rain
+Manchester,2026-09-13 12:26:23,19.8,19.8,64,6.5,0.0,2,Partly cloudy
+Cardiff,2026-09-13 12:26:24,19.1,19.5,93,17.6,0.0,3,Overcast
+Leeds,2026-09-13 12:26:25,17.0,18.0,84,2.2,0.0,3,Overcast
+Belfast,2026-09-13 12:26:24,16.7,16.7,77,5.4,0.0,3,Overcast
+Glasgow,2026-09-13 12:26:23,15.6,14.9,64,2.9,0.0,3,Overcast
+Edinburgh,2026-09-13 12:26:25,15.2,13.8,64,8.3,0.0,1,Mainly clear
