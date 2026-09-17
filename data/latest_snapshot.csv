@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-London,2026-09-16 21:47:41,16.5,14.2,63,14.4,0.0,3,Overcast
-Cardiff,2026-09-16 21:47:44,14.3,13.6,91,10.4,0.1,51,Light drizzle
-Belfast,2026-09-16 21:47:44,14.2,12.2,88,18.4,0.2,53,Moderate drizzle
-Birmingham,2026-09-16 21:47:42,13.8,11.9,76,12.6,0.0,3,Overcast
-Edinburgh,2026-09-16 21:47:45,13.7,10.7,77,20.9,0.0,3,Overcast
-Manchester,2026-09-16 21:47:43,13.5,11.5,81,14.0,0.0,2,Partly cloudy
-Leeds,2026-09-16 21:47:45,13.3,11.5,85,13.7,0.1,51,Light drizzle
-Glasgow,2026-09-16 21:47:43,12.9,10.7,90,18.4,0.1,51,Light drizzle
+London,2026-09-17 12:18:21,18.8,17.0,62,15.5,0.0,2,Partly cloudy
+Cardiff,2026-09-17 12:18:23,17.5,14.1,53,19.4,0.0,2,Partly cloudy
+Birmingham,2026-09-17 12:18:22,17.3,13.8,46,16.6,0.0,3,Overcast
+Leeds,2026-09-17 12:18:25,16.3,12.4,58,23.4,0.0,2,Partly cloudy
+Manchester,2026-09-17 12:18:22,15.4,12.1,66,20.5,0.0,3,Overcast
+Belfast,2026-09-17 12:18:24,15.0,11.9,67,19.4,0.0,3,Overcast
+Edinburgh,2026-09-17 12:18:25,14.2,10.1,72,26.6,0.0,3,Overcast
+Glasgow,2026-09-17 12:18:23,12.9,10.1,85,20.2,0.1,51,Light drizzle
