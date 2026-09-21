@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-Birmingham,2026-09-21 13:28:12,20.3,19.8,57,6.8,0.0,1,Mainly clear
-London,2026-09-21 13:28:12,20.2,18.5,41,5.8,0.0,0,Clear sky
-Belfast,2026-09-21 13:28:12,20.1,19.8,72,12.6,0.0,3,Overcast
-Cardiff,2026-09-21 13:28:12,19.8,20.0,71,8.6,0.0,2,Partly cloudy
-Edinburgh,2026-09-21 13:28:13,19.3,17.6,73,21.2,0.0,2,Partly cloudy
-Leeds,2026-09-21 13:28:13,19.2,18.2,69,14.0,0.0,3,Overcast
-Manchester,2026-09-21 13:28:12,18.4,18.1,64,5.0,0.0,3,Overcast
-Glasgow,2026-09-21 13:28:12,17.3,17.1,86,12.6,0.0,3,Overcast
+London,2026-09-21 22:22:24,20.3,19.8,48,1.1,0.0,0,Clear sky
+Birmingham,2026-09-21 22:22:25,20.2,21.0,68,4.3,0.0,1,Mainly clear
+Belfast,2026-09-21 22:22:28,19.3,19.7,76,9.0,0.0,3,Overcast
+Cardiff,2026-09-21 22:22:27,17.6,18.5,89,7.2,0.0,1,Mainly clear
+Edinburgh,2026-09-21 22:22:29,17.6,19.4,90,1.8,0.0,3,Overcast
+Leeds,2026-09-21 22:22:29,17.1,17.7,88,7.6,0.0,3,Overcast
+Glasgow,2026-09-21 22:22:27,16.9,18.5,94,2.9,0.0,2,Partly cloudy
+Manchester,2026-09-21 22:22:26,16.7,17.6,86,3.6,0.0,1,Mainly clear
