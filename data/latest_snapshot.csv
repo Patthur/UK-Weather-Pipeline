@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-London,2026-09-21 22:22:24,20.3,19.8,48,1.1,0.0,0,Clear sky
-Birmingham,2026-09-21 22:22:25,20.2,21.0,68,4.3,0.0,1,Mainly clear
-Belfast,2026-09-21 22:22:28,19.3,19.7,76,9.0,0.0,3,Overcast
-Cardiff,2026-09-21 22:22:27,17.6,18.5,89,7.2,0.0,1,Mainly clear
-Edinburgh,2026-09-21 22:22:29,17.6,19.4,90,1.8,0.0,3,Overcast
-Leeds,2026-09-21 22:22:29,17.1,17.7,88,7.6,0.0,3,Overcast
-Glasgow,2026-09-21 22:22:27,16.9,18.5,94,2.9,0.0,2,Partly cloudy
-Manchester,2026-09-21 22:22:26,16.7,17.6,86,3.6,0.0,1,Mainly clear
+Birmingham,2026-09-22 12:12:36,21.3,22.3,66,4.0,0.0,2,Partly cloudy
+Leeds,2026-09-22 12:12:37,21.3,22.0,65,5.8,0.0,0,Clear sky
+London,2026-09-22 12:12:36,21.0,21.8,58,0.4,0.0,2,Partly cloudy
+Cardiff,2026-09-22 12:12:37,20.6,22.0,72,2.9,0.0,3,Overcast
+Edinburgh,2026-09-22 12:12:37,20.3,19.1,62,14.0,0.0,3,Overcast
+Belfast,2026-09-22 12:12:37,20.1,19.2,63,11.9,0.0,3,Overcast
+Manchester,2026-09-22 12:12:36,19.7,20.9,73,2.9,0.0,0,Clear sky
+Glasgow,2026-09-22 12:12:37,18.8,17.9,74,15.1,0.0,3,Overcast
