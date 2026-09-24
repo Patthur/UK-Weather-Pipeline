@@ -892,3 +892,11 @@ timestamp_utc,city,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_
 2026-09-24 12:25:16,Belfast,16.4,14.5,71,15.1,0.0,3,Overcast
 2026-09-24 12:25:16,Edinburgh,15.5,13.2,60,11.5,0.0,3,Overcast
 2026-09-24 12:25:17,Leeds,18.0,15.4,49,12.6,0.0,0,Clear sky
+2026-09-24 21:53:27,London,17.1,16.7,72,7.2,0.0,1,Mainly clear
+2026-09-24 21:53:28,Birmingham,16.9,15.7,76,14.0,0.0,0,Clear sky
+2026-09-24 21:53:28,Manchester,16.1,15.9,74,4.3,0.0,2,Partly cloudy
+2026-09-24 21:53:29,Glasgow,14.0,13.0,87,10.8,0.3,55,Dense drizzle
+2026-09-24 21:53:29,Cardiff,17.3,18.0,89,7.6,0.0,2,Partly cloudy
+2026-09-24 21:53:30,Belfast,13.9,13.4,91,8.6,0.2,53,Moderate drizzle
+2026-09-24 21:53:30,Edinburgh,15.8,13.1,79,23.8,0.0,3,Overcast
+2026-09-24 21:53:31,Leeds,16.0,15.6,71,4.7,0.0,1,Mainly clear
