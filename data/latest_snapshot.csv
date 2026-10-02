@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-Cardiff,2026-10-01 22:57:16,15.5,14.7,78,9.4,0.0,2,Partly cloudy
-London,2026-10-01 22:57:14,15.5,14.4,69,7.9,0.0,0,Clear sky
-Birmingham,2026-10-01 22:57:15,14.8,13.0,67,10.1,0.0,3,Overcast
-Manchester,2026-10-01 22:57:15,14.5,12.5,70,12.2,0.0,2,Partly cloudy
-Leeds,2026-10-01 22:57:18,14.4,12.5,66,10.1,0.0,0,Clear sky
-Belfast,2026-10-01 22:57:17,14.4,12.7,77,11.9,0.0,3,Overcast
-Glasgow,2026-10-01 22:57:16,12.8,11.3,80,9.0,0.0,1,Mainly clear
-Edinburgh,2026-10-01 22:57:17,11.5,10.1,80,6.5,0.0,0,Clear sky
+London,2026-10-02 13:20:47,19.5,17.1,51,15.5,0.0,2,Partly cloudy
+Leeds,2026-10-02 13:20:50,19.2,16.1,61,24.5,0.0,2,Partly cloudy
+Cardiff,2026-10-02 13:20:49,19.1,17.8,68,15.5,0.0,3,Overcast
+Manchester,2026-10-02 13:20:48,18.3,15.6,66,22.7,0.0,3,Overcast
+Birmingham,2026-10-02 13:20:47,17.9,14.9,66,23.4,0.0,3,Overcast
+Edinburgh,2026-10-02 13:20:50,17.8,15.8,66,17.3,0.0,2,Partly cloudy
+Glasgow,2026-10-02 13:20:48,17.1,14.8,67,18.0,0.1,51,Light drizzle
+Belfast,2026-10-02 13:20:49,15.5,14.1,90,18.4,0.4,61,Slight rain
