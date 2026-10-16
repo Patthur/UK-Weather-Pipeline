@@ -1240,3 +1240,11 @@ timestamp_utc,city,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_
 2026-10-16 12:00:19,Manchester,12.2,9.4,67,12.2,0.0,3,Overcast
 2026-10-16 12:00:21,Glasgow,10.4,8.0,78,10.4,0.0,2,Partly cloudy
 2026-10-16 12:00:22,Cardiff,14.4,10.9,56,16.6,0.0,2,Partly cloudy
+2026-10-16 21:49:32,London,11.1,8.2,67,12.2,0.0,0,Clear sky
+2026-10-16 21:49:33,Birmingham,9.2,6.3,78,13.0,0.0,0,Clear sky
+2026-10-16 21:49:33,Manchester,9.0,7.0,81,6.5,0.0,0,Clear sky
+2026-10-16 21:49:34,Glasgow,8.5,6.6,80,5.4,0.0,0,Clear sky
+2026-10-16 21:49:35,Cardiff,9.8,7.4,72,7.9,0.0,0,Clear sky
+2026-10-16 21:49:35,Belfast,10.0,7.2,72,11.2,0.0,3,Overcast
+2026-10-16 21:49:36,Edinburgh,9.7,7.3,74,8.3,0.0,3,Overcast
+2026-10-16 21:49:36,Leeds,9.2,6.5,74,9.4,0.0,1,Mainly clear
