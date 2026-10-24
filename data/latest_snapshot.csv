@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-Cardiff,2026-10-23 21:45:00,9.5,4.7,66,22.7,0.0,0,Clear sky
-London,2026-10-23 21:44:58,9.2,4.0,64,24.1,0.0,2,Partly cloudy
-Leeds,2026-10-23 21:45:01,8.4,2.9,66,25.9,0.0,3,Overcast
-Manchester,2026-10-23 21:44:59,7.8,3.9,82,18.4,0.1,51,Light drizzle
-Birmingham,2026-10-23 21:44:59,7.4,1.9,69,25.2,0.0,0,Clear sky
-Belfast,2026-10-23 21:45:00,7.0,3.7,68,9.4,0.0,0,Clear sky
-Edinburgh,2026-10-23 21:45:01,6.6,2.4,82,19.1,0.0,3,Overcast
-Glasgow,2026-10-23 21:44:59,6.5,3.2,81,12.2,0.0,0,Clear sky
+Cardiff,2026-10-24 11:43:20,11.4,8.8,91,18.0,0.5,61,Slight rain
+Belfast,2026-10-24 11:43:20,11.3,7.8,91,23.8,0.8,63,Moderate rain
+London,2026-10-24 11:43:19,10.4,8.3,91,12.6,0.2,53,Moderate drizzle
+Birmingham,2026-10-24 11:43:19,9.3,5.5,92,22.7,0.2,53,Moderate drizzle
+Leeds,2026-10-24 11:43:20,9.3,6.0,83,16.6,0.0,3,Overcast
+Edinburgh,2026-10-24 11:43:20,8.8,5.3,80,16.6,0.1,51,Light drizzle
+Glasgow,2026-10-24 11:43:20,8.8,5.0,88,20.9,0.6,61,Slight rain
+Manchester,2026-10-24 11:43:20,8.8,5.1,91,20.5,0.3,55,Dense drizzle
