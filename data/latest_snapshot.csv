@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-London,2026-10-28 13:39:50,15.0,12.2,65,16.6,0.0,2,Partly cloudy
-Cardiff,2026-10-28 13:39:52,14.7,12.4,78,17.3,0.0,3,Overcast
-Leeds,2026-10-28 13:39:53,14.4,11.6,72,17.6,0.0,3,Overcast
-Manchester,2026-10-28 13:39:51,14.4,11.6,70,16.9,0.0,1,Mainly clear
-Belfast,2026-10-28 13:39:52,14.0,11.7,71,14.0,0.0,3,Overcast
-Birmingham,2026-10-28 13:39:50,13.6,11.5,81,15.5,0.0,3,Overcast
-Edinburgh,2026-10-28 13:39:53,13.1,9.9,71,18.4,0.0,3,Overcast
-Glasgow,2026-10-28 13:39:51,12.6,10.0,79,16.2,0.0,3,Overcast
+London,2026-10-28 22:55:22,13.1,12.1,83,7.2,0.0,3,Overcast
+Cardiff,2026-10-28 22:55:23,12.8,12.9,95,3.6,0.0,3,Overcast
+Edinburgh,2026-10-28 22:55:24,11.8,9.3,80,14.0,0.0,3,Overcast
+Belfast,2026-10-28 22:55:23,11.6,10.8,90,5.4,0.0,3,Overcast
+Birmingham,2026-10-28 22:55:22,11.3,10.4,88,5.4,0.0,3,Overcast
+Glasgow,2026-10-28 22:55:23,11.3,10.2,90,7.2,0.0,3,Overcast
+Leeds,2026-10-28 22:55:24,11.3,10.0,83,6.1,0.0,1,Mainly clear
+Manchester,2026-10-28 22:55:22,11.2,10.1,85,5.0,0.0,3,Overcast
