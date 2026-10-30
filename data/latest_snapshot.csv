@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-Belfast,2026-10-29 23:02:43,13.1,11.2,85,14.0,0.0,3,Overcast
-London,2026-10-29 23:02:41,12.7,12.2,85,4.7,0.0,0,Clear sky
-Cardiff,2026-10-29 23:02:43,12.2,11.1,87,7.9,0.0,1,Mainly clear
-Leeds,2026-10-29 23:02:44,11.4,10.8,93,5.0,0.0,0,Clear sky
-Manchester,2026-10-29 23:02:42,11.4,10.1,83,6.5,0.0,2,Partly cloudy
-Birmingham,2026-10-29 23:02:41,11.2,10.0,87,6.8,0.0,0,Clear sky
-Glasgow,2026-10-29 23:02:42,11.0,9.4,87,9.4,0.0,3,Overcast
-Edinburgh,2026-10-29 23:02:44,10.9,9.6,84,5.8,0.0,0,Clear sky
+London,2026-10-30 13:42:59,15.3,13.0,60,11.2,0.0,0,Clear sky
+Belfast,2026-10-30 13:43:01,14.8,12.2,76,18.7,0.0,3,Overcast
+Manchester,2026-10-30 13:43:00,14.3,12.3,67,10.1,0.0,1,Mainly clear
+Birmingham,2026-10-30 13:43:00,14.2,12.4,70,10.4,0.0,3,Overcast
+Glasgow,2026-10-30 13:43:01,14.2,12.7,66,6.8,0.0,3,Overcast
+Cardiff,2026-10-30 13:43:01,13.9,12.0,74,11.9,0.0,0,Clear sky
+Edinburgh,2026-10-30 13:43:02,13.7,12.7,67,3.2,0.0,2,Partly cloudy
+Leeds,2026-10-30 13:43:02,13.5,12.0,75,8.6,0.0,1,Mainly clear
