@@ -1659,3 +1659,11 @@ timestamp_utc,city,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_
 2026-11-12 01:08:29,Belfast,8.3,4.1,67,16.6,0.0,3,Overcast
 2026-11-12 01:08:29,Edinburgh,4.3,0.0,59,12.2,0.0,0,Clear sky
 2026-11-12 01:08:29,Leeds,5.0,2.0,79,7.6,0.0,2,Partly cloudy
+2026-11-12 15:40:44,London,7.8,3.5,60,15.5,0.0,0,Clear sky
+2026-11-12 15:40:44,Birmingham,6.3,1.9,56,14.0,0.0,0,Clear sky
+2026-11-12 15:40:45,Manchester,7.0,3.2,52,9.4,0.0,0,Clear sky
+2026-11-12 15:40:46,Glasgow,6.2,2.6,60,9.4,0.0,0,Clear sky
+2026-11-12 15:40:46,Cardiff,7.7,3.6,53,12.2,0.0,0,Clear sky
+2026-11-12 15:40:47,Belfast,8.6,4.3,49,13.3,0.0,0,Clear sky
+2026-11-12 15:40:48,Edinburgh,6.4,1.7,55,15.8,0.0,0,Clear sky
+2026-11-12 15:40:48,Leeds,6.8,2.7,53,11.5,0.0,0,Clear sky
