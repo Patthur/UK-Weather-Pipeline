@@ -1,9 +1,9 @@
 city,timestamp_utc,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,weather_code,weather_description
-London,2026-11-15 23:14:40,8.0,5.3,90,13.0,0.0,3,Overcast
-Cardiff,2026-11-15 23:14:41,7.6,5.3,86,8.3,0.0,1,Mainly clear
+Cardiff,2026-11-16 16:36:57,8.0,4.3,70,14.4,0.0,3,Overcast
+London,2026-11-16 16:36:53,6.6,4.2,66,2.5,0.0,0,Clear sky
+Belfast,2026-11-16 16:36:58,6.5,2.3,59,12.6,0.0,3,Overcast
 Leeds,2026-11-15 23:14:41,6.2,3.0,91,13.3,0.0,3,Overcast
-Birmingham,2026-11-15 23:14:40,6.0,2.0,86,17.6,0.0,3,Overcast
-Manchester,2026-11-15 23:14:41,5.9,2.7,88,11.9,0.0,3,Overcast
-Belfast,2026-11-15 23:14:41,4.7,1.2,67,8.3,0.0,2,Partly cloudy
-Edinburgh,2026-11-15 23:14:41,4.4,0.7,69,10.4,0.0,3,Overcast
-Glasgow,2026-11-15 23:14:41,2.9,-0.9,72,10.4,0.0,3,Overcast
+Birmingham,2026-11-16 16:36:54,5.9,2.6,71,9.4,0.0,3,Overcast
+Manchester,2026-11-16 16:36:55,4.9,1.5,60,6.5,0.0,3,Overcast
+Glasgow,2026-11-16 16:36:56,3.0,-0.5,73,7.9,0.0,3,Overcast
+Edinburgh,2026-11-16 16:36:59,2.8,-0.4,67,5.4,0.0,2,Partly cloudy
