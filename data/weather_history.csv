@@ -1847,3 +1847,11 @@ timestamp_utc,city,temperature_c,apparent_temperature_c,humidity_pct,wind_speed_
 2026-11-26 17:25:28,Belfast,7.8,4.3,85,15.8,0.2,53,Moderate drizzle
 2026-11-26 17:25:29,Edinburgh,3.9,0.0,71,11.2,0.0,3,Overcast
 2026-11-26 17:25:29,Leeds,3.9,-0.4,71,14.4,0.0,3,Overcast
+2026-11-27 01:59:20,London,2.0,-2.2,75,11.9,0.0,3,Overcast
+2026-11-27 01:59:20,Birmingham,2.0,-2.4,81,14.8,0.0,3,Overcast
+2026-11-27 01:59:20,Manchester,3.3,-0.9,72,12.6,0.0,3,Overcast
+2026-11-27 01:59:20,Glasgow,4.1,0.8,89,10.8,0.3,55,Dense drizzle
+2026-11-27 01:59:21,Cardiff,5.1,1.9,88,11.2,0.2,53,Moderate drizzle
+2026-11-27 01:59:21,Belfast,9.5,7.1,96,14.4,0.6,61,Slight rain
+2026-11-27 01:59:21,Edinburgh,4.0,1.1,83,7.2,0.1,51,Light drizzle
+2026-11-27 01:59:21,Leeds,2.8,-2.1,75,18.0,0.0,3,Overcast
